@@ -351,6 +351,7 @@ a:hover {
 
 #projects {
     position: relative;
+    padding-top: 2rem;
   }
   
   .color-container {
